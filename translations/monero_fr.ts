@@ -5533,7 +5533,7 @@ Utilisez &quot;mms note&quot; pour afficher les notes en attente</translation>
     </message>
     <message>
         <location filename="../src/simplewallet/simplewallet.cpp" line="167"/>
-        <source>Restore from estimated blockchain height on specified date</source>
+        <source>Restore from estimated blockchain height on specified date (YYYY-MM-DD)</source>
         <translation>Restaurer depuis la hauteur estimée de la chaîne de blocs à la date spécifiée</translation>
     </message>
     <message>

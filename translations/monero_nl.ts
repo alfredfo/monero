@@ -5474,7 +5474,7 @@ Use &quot;mms note&quot; to display the waiting notes</source>
     </message>
     <message>
         <location filename="../src/simplewallet/simplewallet.cpp" line="167"/>
-        <source>Restore from estimated blockchain height on specified date</source>
+        <source>Restore from estimated blockchain height on specified date (YYYY-MM-DD)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
